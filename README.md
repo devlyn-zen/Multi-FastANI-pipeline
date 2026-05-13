@@ -1,2 +1,1 @@
-# Multi-FastANI-pipeline
-Hi
+# Multi-FastANI-pi
