@@ -1,0 +1,9 @@
+UNIVERSE                = vanilla
+LOG                     = run.$(Cluster).$(Process).log
+OUTPUT                  = run.$(Cluster).$(Process).out
+ERROR                   = run.$(Cluster).$(Process).error
+INITIALDIR              = /mnt/bigdata/linuxhome/dzeng24/multi-ANI/
+EXECUTABLE              = /mnt/bigdata/linuxhome/dzeng24/multi-ANI/multi_ANI.sh
+REQUEST_CPUS            = 4
+REQUEST_MEMORY          = 64GB
+queue
