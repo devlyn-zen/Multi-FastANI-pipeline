@@ -1,1 +1,1 @@
-# Multi-FastANI-pi
+# Multi-FastANI-pipeline
